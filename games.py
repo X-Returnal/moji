@@ -10,6 +10,7 @@ game_hint = ["geometry was one of my favorite subjects, i'm glad they made a gam
     "to be honest, i also never beat this game. not much of a people person."]
 
 wrong_ans = [["the impossible game","bit. trip","diep.io"],["fortnite","terraria","deep rock galactic"],["godzilla vs king kong","The Lego Movie Videogame","ultrakill"],["helldivers", "totally awesome battle simulator","balders gate 3"],["papa's cookieria","cookies inc.","squid games"],\
-["call of duty zombies", "plants vs zombies", "resident evil"],["papa's pizzaria","super mario bros.","infinite pizza"], ["no. why.", "fall guys","[####] you."],["universe sandbox"]]
+["call of duty zombies", "plants vs zombies", "resident evil"],["papa's pizzaria","super mario bros.","infinite pizza"], ["no. why.", "fall guys","[####] you."],["universe sandbox","space station 13","kerbal space program"],["coral island", "farming simulator 22","animal crossing"]]
 
 print("Welcome to... i guess this amagome of who wants to be a millionale")
+print("you get 3 hints. say 'hint' when answering to use.")
